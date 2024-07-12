@@ -57,7 +57,8 @@ body {
   border: none;
   background: none;
   font-size: 25px;
-  padding: 0 15px;
+  padding: 0 20px;
+  font-family: "Ga Maamli";
 }
 
 .input-img img {
